@@ -34,7 +34,7 @@ void loop()
         lcd_1.print("Odd");
     }
 
-    delay(1000); // Wait for 1 second
+    delay(1000); 
     seconds += 1;
 
     // Clear the previous display to avoid overlapping text
