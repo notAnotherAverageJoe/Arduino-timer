@@ -27,3 +27,9 @@ Secs: 3 is Odd
 Secs: 4 is Even
 Secs: 5 is Odd
 Secs: 6 is Even
+
+## Note for Non-Arduino Users
+This project is written for Arduino-compatible environments. If you don't have the Arduino IDE, you can:
+1. Use Arduino CLI (see https://arduino.github.io/arduino-cli/).
+2. Simulate it using tools like Tinkercad Circuits (https://www.tinkercad.com/circuits).
+3. Use a VS Code extension for Arduino development.
